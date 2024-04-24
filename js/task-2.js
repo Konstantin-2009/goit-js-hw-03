@@ -1,1 +1,3 @@
-function makeArray(firstArray,secondArray,maxLength) {}
+function makeArray(firstArray, secondArray, maxLength) {
+    const newMakeArray = 
+}
